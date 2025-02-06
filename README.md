@@ -32,4 +32,25 @@
 🚀 **Cloud & Tools:**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Databricks](https://img.shields.io/badge/Databricks-EF1A24.svg?style=for-the-badge&logo=databricks&logoColor=white)  
-![Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor
+![Synapse Analytics](https://img.shields.io/badge/Synapse%20Analytics-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)  
+
+---
+
+### 📌 Featured Projects  
+🚀 **[Sales Data Dashboard](https://github.com/snehasamita05/Sales-Data-Dashboard)**  
+📊 Power BI dashboard for analyzing sales performance and trends  
+
+🔍 **[ETL Pipeline with Azure Data Factory & Synapse Analytics](https://github.com/snehasamita05/Azure-End-End-Project1)**  
+⚙️ Designed an efficient ETL pipeline using ADF and Synapse Analytics  
+
+---
+
+### 🌍 Let's Connect!  
+📧 **Email:** [snehasamita05@gmail.com](mailto:snehasamita05@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/snehasamita](https://www.linkedin.com/in/snehasamita)  
+
+---
+
+💡 *"Data is the new oil, and I love refining it!"* 🚀  
+🎯 *"Always learning, always evolving!"*  
