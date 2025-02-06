@@ -44,9 +44,6 @@
 🔍 **[ETL Pipeline with Azure Data Factory & Synapse Analytics](https://github.com/snehasamita05/Azure-End-End-Project1)**  
 ⚙️ Designed an efficient ETL pipeline using ADF and Synapse Analytics  
 
-📡 **[Streaming Data with PySpark](https://github.com/snehasamita05/pyspark-streaming)**  
-⚡ Built a real-time data processing pipeline with PySpark  
-
 ---
 
 ### 🌍 Let's Connect!  
