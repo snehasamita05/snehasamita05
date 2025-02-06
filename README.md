@@ -1,16 +1,25 @@
-<h1 align="center">Hi there, I'm Sneha Samita! 👋</h1>  
-<h3 align="center">🚀 Data Engineer | Cloud Enthusiast | AI & ML Explorer</h3>  
+<h1 align="center">Hi there, I'm Sneha Samita! 👋</h1>
+<h3 align="center">🚀 Data Engineer | Cloud Enthusiast | AI & ML Explorer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
-</p>  
+</p>
 
 ### 👩‍💻 About Me  
 - 🏗 **Building Scalable Data Solutions** with **Azure, Snowflake, Databricks & SQL**  
-- 🎯 Passionate about **Data Modelling, ETL, and AI-powered solutions**  
+- 🎯 Passionate about **Data Modeling, ETL, and AI-powered solutions**  
 - 🌱 Currently **learning Apache Spark & Hadoop**  
 - 📍 Based in **Sweden 🇸🇪**, exploring global opportunities  
 - 💡 Always inspired by **women in tech!**  
+
+---
+
+### 🎓 Certifications  
+✔️ **Microsoft Certified: Azure Data Engineer Associate (DP-203)**  
+✔️ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+✔️ **Tableau Desktop Specialist 2020.2**  
+✔️ **Microsoft SQL Server 2012 (70-461, 70-463)**  
+✔️ **Oracle Database SQL Fundamentals 1 (1Z0-051)**  
 
 ---
 
