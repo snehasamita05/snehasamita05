@@ -41,7 +41,7 @@
 🚀 **[Sales Data Dashboard](https://github.com/snehasamita05/Sales-Data-Dashboard)**  
 📊 Power BI dashboard for analyzing sales performance and trends  
 
-🔍 **[ETL Pipeline with Azure Data Factory](https://github.com/snehasamita05/etl-pipeline)**  
+🔍 **[ETL Pipeline with Azure Data Factory & Synapse Analytics](https://github.com/snehasamita05/Azure-End-End-Project1)**  
 ⚙️ Designed an efficient ETL pipeline using ADF and Synapse Analytics  
 
 📡 **[Streaming Data with PySpark](https://github.com/snehasamita05/pyspark-streaming)**  
