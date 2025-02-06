@@ -38,7 +38,7 @@
 ---
 
 ### 📌 Featured Projects  
-🚀 **[Sales Data Dashboard](https://github.com/snehasamita05/sales-dashboard)**  
+🚀 **[Sales Data Dashboard](https://github.com/snehasamita05/Sales-Data-Dashboard)**  
 📊 Power BI dashboard for analyzing sales performance and trends  
 
 🔍 **[ETL Pipeline with Azure Data Factory](https://github.com/snehasamita05/etl-pipeline)**  
