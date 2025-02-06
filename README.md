@@ -49,7 +49,6 @@
 ### 🌍 Let's Connect!  
 📧 **Email:** [snehasamita05@gmail.com](mailto:snehasamita05@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/snehasamita](https://www.linkedin.com/in/snehasamita)  
-📜 **Portfolio:** [snehasamita.com](https://snehasamita.com) *(if available)*  
 
 ---
 
