@@ -30,19 +30,22 @@ I've worked on **creating scalable data models, enhancing BI capabilities, and o
 ---
 
 ### 🎓 Certifications  
+
 - **Microsoft Certified: Azure Data Engineer Associate (DP-203)**  
-  ![DP-203](https://github.com/snehasamita05/Certifications/blob/main/DP-203.jpg)  
+  📜 [View Certificate](https://github.com/snehasamita05/your-repo/blob/main/Certifications/DP-203.pdf)  
 
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**  
-  ![AZ-900](https://github.com/snehasamita05/Certifications/blob/main/AZ-900.PNG)  
+  📜 [View Certificate](https://github.com/snehasamita05/your-repo/blob/main/Certifications/AZ-900.pdf)  
 
 - **Databricks Certified: Databricks Fundamentals**  
-  ![Databricks Fundamentals](https://github.com/snehasamita05/Certifications/blob/main/Databricks-Fundamentals.pdf)  
+  📜 [View Certificate](https://github.com/snehasamita05/your-repo/blob/main/Certifications/Databricks-Fundamentals.pdf)  
 
 - **Tableau Desktop Specialist 2020.2**  
-- **Microsoft SQL Server 2012 (70-461, 70-463)**  
-- **Oracle Database SQL Fundamentals 1 (1Z0-051)**  
 
+- **Microsoft SQL Server 2012 (70-461, 70-463)**   
+
+- **Oracle Database SQL Fundamentals 1 (1Z0-051)** 
+ 
 ---
 
 ### ⚡ Tech Stack  
