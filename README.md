@@ -30,15 +30,15 @@
   </tr>
   <tr>
     <td>✔️ <strong>Tableau Desktop Specialist 2020.2</strong></td>
-    <td>📜 [Certification Pending Upload]</td>
+    <td></td>
   </tr>
   <tr>
     <td>✔️ <strong>SQL Server 2012 (70-461, 70-463)</strong></td>
-    <td>📜 [Certification Pending Upload]</td>
+    <td></td>
   </tr>
   <tr>
     <td>✔️ <strong>Oracle SQL Fundamentals 1 (1Z0-051)</strong></td>
-    <td>📜 [Certification Pending Upload]</td>
+    <td></td>
   </tr>
 </table>
 
