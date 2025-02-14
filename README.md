@@ -17,9 +17,9 @@
 ### 🎓 Certifications  
 ✔️ **Microsoft Certified: Azure Data Engineer Associate (DP-203) (https://github.com/snehasamita05/Certifications/blob/main/DP-203.jpg)**  
 
-✔️ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+✔️ **Microsoft Certified: Azure Fundamentals (AZ-900) (https://github.com/snehasamita05/Certifications/blob/main/AZ-900.PNG)**  
 
-✔️ **Databricks Certified: Databricks Fundamentals**  
+✔️ **Databricks Certified: Databricks Fundamentals (https://github.com/snehasamita05/Certifications/blob/main/Databricks Fundamentals - Generic.pdf)**  
 
 ✔️ **Tableau Desktop Specialist 2020.2**  
 
