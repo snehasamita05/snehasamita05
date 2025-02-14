@@ -16,12 +16,16 @@
 
 ### 🎓 Certifications  
 ✔️ **Microsoft Certified: Azure Data Engineer Associate (DP-203)**  
-✔️ **Microsoft Certified: Azure Fundamentals (AZ-900)** 
-✔️ **Databricks Certified: Databricks Fundamentals** 
-✔️ **Tableau Desktop Specialist 2020.2**  
-✔️ **Microsoft SQL Server 2012 (70-461, 70-463)**  
-✔️ **Oracle Database SQL Fundamentals 1 (1Z0-051)** 
 
+✔️ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+
+✔️ **Databricks Certified: Databricks Fundamentals**  
+
+✔️ **Tableau Desktop Specialist 2020.2**  
+
+✔️ **Microsoft SQL Server 2012 (70-461, 70-463)**  
+
+✔️ **Oracle Database SQL Fundamentals 1 (1Z0-051)**  
 
 ---
 
@@ -55,4 +59,4 @@
 ---
 
 💡 *"Data is the new oil, and I love refining it!"* 🚀  
-🎯 *"Always learning, always evolving!"*  
+🎯 *"Always learning, always evolving!"*
