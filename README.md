@@ -9,7 +9,7 @@
 - 🏗 **Building Scalable Data Solutions** with **Azure, Snowflake, Databricks & SQL**  
 - 🎯 Passionate about **Data Modeling, ETL, and AI-powered solutions**  
 - 🌱 Currently **learning Apache Spark**  
-- 📍 Based in **Sweden 🇸🇪**, exploring opportunities in EU  
+- 📍 Based in **Sweden 🇸🇪**, exploring opportunities in Sweden and EU  
 - 💡 Always inspired by **women in tech!**  
 
 ---
