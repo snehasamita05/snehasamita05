@@ -15,17 +15,32 @@
 ---
 
 ### 🎓 Certifications  
-✔️ **Microsoft Certified: Azure Data Engineer Associate (DP-203) (https://github.com/snehasamita05/Certifications/blob/main/DP-203.jpg)**  
-
-✔️ **Microsoft Certified: Azure Fundamentals (AZ-900) (https://github.com/snehasamita05/Certifications/blob/main/AZ-900.PNG)**  
-
-✔️ **Databricks Certified: Databricks Fundamentals ([https://github.com/snehasamita05/Certifications/blob/main/Databricks Fundamentals](https://github.com/snehasamita05/Certifications/blob/main/Databricks-Fundamentals.pdf))**  
-
-✔️ **Tableau Desktop Specialist 2020.2**  
-
-✔️ **Microsoft SQL Server 2012 (70-461, 70-463)**  
-
-✔️ **Oracle Database SQL Fundamentals 1 (1Z0-051)**  
+<table>
+  <tr>
+    <td>✔️ <strong>Azure Data Engineer Associate (DP-203)</strong></td>
+    <td><a href="https://github.com/snehasamita05/Certifications/blob/main/DP-203.jpg">📜 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>✔️ <strong>Azure Fundamentals (AZ-900)</strong></td>
+    <td><a href="https://github.com/snehasamita05/Certifications/blob/main/AZ-900.PNG">📜 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>✔️ <strong>Databricks Fundamentals</strong></td>
+    <td><a href="https://github.com/snehasamita05/Certifications/blob/main/Databricks-Fundamentals.pdf">📜 View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>✔️ <strong>Tableau Desktop Specialist 2020.2</strong></td>
+    <td>📜 [Certification Pending Upload]</td>
+  </tr>
+  <tr>
+    <td>✔️ <strong>SQL Server 2012 (70-461, 70-463)</strong></td>
+    <td>📜 [Certification Pending Upload]</td>
+  </tr>
+  <tr>
+    <td>✔️ <strong>Oracle SQL Fundamentals 1 (1Z0-051)</strong></td>
+    <td>📜 [Certification Pending Upload]</td>
+  </tr>
+</table>
 
 ---
 
@@ -59,4 +74,4 @@
 ---
 
 💡 *"Data is the new oil, and I love refining it!"* 🚀  
-🎯 *"Always learning, always evolving!"*
+🎯 *"Always learning, always evolving!"*  
