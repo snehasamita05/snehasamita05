@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/Data%20Engineer-%2300C7B7.svg?style=for-the-badge&logo=python&logoColor=white" width="150">
 </p>
 
+---
+
 ### 👩‍💻 About Me  
 - 🏗 **Building Scalable Data Solutions** with **Azure, Snowflake, Databricks & SQL**  
 - 🎯 Passionate about **Data Modeling, ETL, and AI-powered solutions**  
@@ -12,35 +14,34 @@
 - 📍 Based in **Sweden 🇸🇪**, exploring opportunities in Sweden and EU  
 - 💡 Always inspired by **women in tech!**  
 
+Throughout my career, I have gained extensive experience in **building and optimizing data solutions**, working with **SQL Server, SSIS, SSRS, and Power BI**, while expanding my technical skillset into **Python, PySpark, and Azure-based platforms**.  
+I've worked on **creating scalable data models, enhancing BI capabilities, and optimizing data workflows** to drive efficiency and insights.  
+
+✅ **Data Warehouse Development & Optimization:** Developed centralized data platforms, integrated data from multiple sources, and optimized processes, achieving a **40% improvement in data accessibility** and a **25% reduction in processing times**.  
+
+☁ **Cloud Transition & Data Modeling:** Experience in transitioning data solutions to **Azure and Snowflake**, implementing **Kimball-based data models** for scalable, future-proof solutions.  
+
+⚡ **Performance & Process Optimization:** Proven ability to optimize **SQL queries**, improving **report generation times by 30%** and addressing performance bottlenecks while ensuring data accuracy and compliance.  
+
+🤝 **Collaboration & Training:** Passionate about **teamwork and mentorship**, trained colleagues on **ETL design, SQL, and Tableau**, boosting efficiency by **20%**.  
+
+📊 **Regulatory Compliance & Reporting:** Led efforts to **enhance data solutions for regulatory compliance**, supporting stakeholders’ reporting requirements and reducing reporting times by **15%**.  
+
 ---
 
 ### 🎓 Certifications  
-<table>
-  <tr>
-    <td>✔️ <strong>Azure Data Engineer Associate (DP-203)</strong></td>
-    <td><a href="https://github.com/snehasamita05/Certifications/blob/main/DP-203.jpg">📜 View Certificate</a></td>
-  </tr>
-  <tr>
-    <td>✔️ <strong>Azure Fundamentals (AZ-900)</strong></td>
-    <td><a href="https://github.com/snehasamita05/Certifications/blob/main/AZ-900.PNG">📜 View Certificate</a></td>
-  </tr>
-  <tr>
-    <td>✔️ <strong>Databricks Fundamentals</strong></td>
-    <td><a href="https://github.com/snehasamita05/Certifications/blob/main/Databricks-Fundamentals.pdf">📜 View Certificate</a></td>
-  </tr>
-  <tr>
-    <td>✔️ <strong>Tableau Desktop Specialist 2020.2</strong></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>✔️ <strong>SQL Server 2012 (70-461, 70-463)</strong></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>✔️ <strong>Oracle SQL Fundamentals 1 (1Z0-051)</strong></td>
-    <td></td>
-  </tr>
-</table>
+- **Microsoft Certified: Azure Data Engineer Associate (DP-203)**  
+  ![DP-203](https://github.com/snehasamita05/Certifications/blob/main/DP-203.jpg)  
+
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+  ![AZ-900](https://github.com/snehasamita05/Certifications/blob/main/AZ-900.PNG)  
+
+- **Databricks Certified: Databricks Fundamentals**  
+  ![Databricks Fundamentals](https://github.com/snehasamita05/Certifications/blob/main/Databricks-Fundamentals.pdf)  
+
+- **Tableau Desktop Specialist 2020.2**  
+- **Microsoft SQL Server 2012 (70-461, 70-463)**  
+- **Oracle Database SQL Fundamentals 1 (1Z0-051)**  
 
 ---
 
@@ -74,4 +75,4 @@
 ---
 
 💡 *"Data is the new oil, and I love refining it!"* 🚀  
-🎯 *"Always learning, always evolving!"*  
+🎯 *"Always learning, always evolving!"*
