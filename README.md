@@ -15,7 +15,7 @@
 ---
 
 ### 🎓 Certifications  
-✔️ **Microsoft Certified: Azure Data Engineer Associate (DP-203)**  
+✔️ **Microsoft Certified: Azure Data Engineer Associate (DP-203) (https://github.com/snehasamita05/Certifications/blob/main/DP-203.jpg)**  
 
 ✔️ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
 
