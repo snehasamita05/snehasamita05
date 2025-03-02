@@ -72,8 +72,8 @@ I've worked on **creating scalable data models, enhancing BI capabilities, and o
 ---
 
 ### 📄 Resume  
-- **[Download my Resume](https://github.com/snehasamita05/Resume/Sneha_Samita_Resume.pdf)**
-- **[Download my detailed Resume](https://github.com/snehasamita05/Resume/Sneha_Samita_Detailed_Resume.pdf)**
+- **[Download my Resume](https://github.com/snehasamita05/Resume/blob/main/Sneha_Samita_Resume.pdf)**
+- **[Download my detailed Resume](https://github.com/snehasamita05/Resume/blob/main/Sneha_Samita_Detailed_Resume.pdf)**
 
 
 ---
