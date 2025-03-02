@@ -71,6 +71,13 @@ I've worked on **creating scalable data models, enhancing BI capabilities, and o
 
 ---
 
+### 📄 Resume  
+- **[Download my Resume](https://github.com/snehasamita05/Resume/Sneha_Samita_Resume.pdf)**
+- **[Download my detailed Resume](https://github.com/snehasamita05/Resume/Sneha_Samita_Detailed_Resume.pdf)**
+
+
+---
+
 ### 🌍 Let's Connect!  
 📧 **Email:** [snehasamita05@gmail.com](mailto:snehasamita05@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/snehasamita](https://www.linkedin.com/in/snehasamita)  
