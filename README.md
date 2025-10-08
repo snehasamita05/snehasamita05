@@ -31,6 +31,9 @@ I've worked on **creating scalable data models, enhancing BI capabilities, and o
 
 ### 🎓 Certifications  
 
+- **Databricks Certified: Databricks Certified Data Engineer Associate**  
+  📜 [View Certificate](https://github.com/snehasamita05/your-repo/blob/main/Certifications/Databricks-Certified-Data-Engineer-Associate.png)  
+
 - **Microsoft Certified: Azure Data Engineer Associate (DP-203)**  
   📜 [View Certificate](https://github.com/snehasamita05/your-repo/blob/main/Certifications/DP-203.pdf)  
 
@@ -73,7 +76,6 @@ I've worked on **creating scalable data models, enhancing BI capabilities, and o
 
 ### 📄 Resume  
 - **[Download my Resume](https://github.com/snehasamita05/Resume/blob/main/Sneha_Samita_Resume.pdf)**
-- **[Download my detailed Resume](https://github.com/snehasamita05/Resume/blob/main/Sneha_Samita_Detailed_Resume.pdf)**
 
 
 ---
