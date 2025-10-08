@@ -35,7 +35,7 @@ I've worked on **creating scalable data models, enhancing BI capabilities, and o
   📜 [View Certificate](https://github.com/snehasamita05/Certifications/blob/cd1cf49cf546998318f5e623d59f3e797c97b65c/Databricks-Certified-Data-Engineer-Associate.png)
 
 - **Databricks Certified: Databricks Fundamentals**  
-  📜 [View Certificate][(https://github.com/snehasamita05/Certifications/blob/cd1cf49cf546998318f5e623d59f3e797c97b65c/Databricks-Fundamentals.pdf)] 
+  📜 [View Certificate](https://github.com/snehasamita05/Certifications/blob/cd1cf49cf546998318f5e623d59f3e797c97b65c/Databricks-Fundamentals.pdf)
 
 
 - **Microsoft Certified: Azure Data Engineer Associate (DP-203)**  
