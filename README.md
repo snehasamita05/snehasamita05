@@ -38,7 +38,7 @@ I've worked on **creating scalable data models, enhancing BI capabilities, and o
   📜 [View Certificate](https://github.com/snehasamita05/your-repo/blob/main/Certifications/DP-203.pdf)  
 
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**  
-  📜 [View Certificate](https://github.com/snehasamita05/your-repo/blob/main/Certifications/AZ-900.pdf)  
+  📜 [View Certificate](AZ-900.png)  
 
 - **Databricks Certified: Databricks Fundamentals**  
   📜 [View Certificate](https://github.com/snehasamita05/your-repo/blob/main/Certifications/Databricks-Fundamentals.pdf)  
