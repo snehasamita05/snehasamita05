@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sneha Samita! 👋</h1>
-<h3 align="center">🚀 Data Engineer | Cloud Enthusiast | AI & ML Explorer</h3>
+<h3 align="center">🚀 Data Engineer | Cloud & Databricks Enthusiast | Modern Data Solutions Explorer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Engineer-%2300C7B7.svg?style=for-the-badge&logo=python&logoColor=white" width="150">
@@ -7,25 +7,20 @@
 
 ---
 
-### 👩‍💻 About Me  
-- 🏗 **Building Scalable Data Solutions** with **Azure, Snowflake, Databricks & SQL**  
-- 🎯 Passionate about **Data Modeling, ETL, and AI-powered solutions**  
-- 🌱 Currently **learning Apache Spark**  
-- 📍 Based in **Sweden 🇸🇪**, exploring opportunities in Sweden and EU  
-- 💡 Always inspired by **women in tech!**  
+### 👩‍💻 About Me
+- 🏗 **Building Modern Data Solutions** with **Databricks, Azure, Snowflake, Python & SQL**  
+- 🎯 Passionate about **Data Lakehouse Architecture, ETL Pipelines, Data Governance & AI/ML**  
+- 🌱 Continuously exploring **Unity Catalog, Delta Lake, Delta Live Tables, and Apache Spark**  
+- 📍 **Working in Sweden 🇸🇪 and open to new opportunities in Sweden & EU**  
+- 💡 Advocating **women in tech and mentorship**
 
-Throughout my career, I have gained extensive experience in **building and optimizing data solutions**, working with **SQL Server, SSIS, SSRS, and Power BI**, while expanding my technical skillset into **Python, PySpark, and Azure-based platforms**.  
-I've worked on **creating scalable data models, enhancing BI capabilities, and optimizing data workflows** to drive efficiency and insights.  
+I specialize in **designing scalable, governed, and production-ready data solutions** using modern cloud and lakehouse technologies. Experienced in **data modeling, ETL orchestration, and building high-performance pipelines** to drive business insights.  
 
-✅ **Data Warehouse Development & Optimization:** Developed centralized data platforms, integrated data from multiple sources, and optimized processes, achieving a **40% improvement in data accessibility** and a **25% reduction in processing times**.  
-
-☁ **Cloud Transition & Data Modeling:** Experience in transitioning data solutions to **Azure and Snowflake**, implementing **Kimball-based data models** for scalable, future-proof solutions.  
-
-⚡ **Performance & Process Optimization:** Proven ability to optimize **SQL queries**, improving **report generation times by 30%** and addressing performance bottlenecks while ensuring data accuracy and compliance.  
-
-🤝 **Collaboration & Training:** Passionate about **teamwork and mentorship**, trained colleagues on **ETL design, SQL, and Tableau**, boosting efficiency by **20%**.  
-
-📊 **Regulatory Compliance & Reporting:** Led efforts to **enhance data solutions for regulatory compliance**, supporting stakeholders’ reporting requirements and reducing reporting times by **15%**.  
+**Key Highlights:**  
+- ✅ **Modern Data Engineering:** Databricks Lakehouse, Delta Lake, Unity Catalog, PySpark  
+- ☁ **Cloud & Data Platforms:** Azure, Snowflake, Synapse Analytics, ADF  
+- ⚡ **Optimizations & Governance:** Efficient ETL pipelines, query optimization, secure & compliant data workflows  
+- 🤝 **Collaboration & Mentorship:** Guided teams on modern data practices, boosting efficiency and adoption  
 
 ---
 
@@ -52,16 +47,16 @@ I've worked on **creating scalable data models, enhancing BI capabilities, and o
  
 ---
 
-### ⚡ Tech Stack  
+### ⚡ Tech Stack
 💻 **Languages & Databases:**  
-![SQL](https://img.shields.io/badge/SQL-%231572B6.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=blue)  
+![SQL](https://img.shields.io/badge/SQL-%231572B6.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![Snowflake](https://img.shields.io/badge/Snowflake-%2300C7B7.svg?style=for-the-badge&logo=snowflake&logoColor=white)  
 
-🚀 **Cloud & Tools:**  
+☁ **Cloud & Modern Tools:**  
 ![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Databricks](https://img.shields.io/badge/Databricks-EF1A24.svg?style=for-the-badge&logo=databricks&logoColor=white)  
-![Synapse Analytics](https://img.shields.io/badge/Synapse%20Analytics-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-0078D4.svg?style=for-the-badge&logo=databricks&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)  
 
 ---
