@@ -32,16 +32,17 @@ I've worked on **creating scalable data models, enhancing BI capabilities, and o
 ### 🎓 Certifications  
 
 - **Databricks Certified: Databricks Certified Data Engineer Associate**  
-  📜 [View Certificate](https://github.com/snehasamita05/your-repo/blob/main/Certifications/Databricks-Certified-Data-Engineer-Associate.png)  
+  📜 [View Certificate](https://github.com/snehasamita05/Certifications/blob/cd1cf49cf546998318f5e623d59f3e797c97b65c/Databricks-Certified-Data-Engineer-Associate.png)
+
+- **Databricks Certified: Databricks Fundamentals**  
+  📜 [View Certificate][(https://github.com/snehasamita05/Certifications/blob/cd1cf49cf546998318f5e623d59f3e797c97b65c/Databricks-Fundamentals.pdf)] 
+
 
 - **Microsoft Certified: Azure Data Engineer Associate (DP-203)**  
-  📜 [View Certificate](https://github.com/snehasamita05/your-repo/blob/main/Certifications/DP-203.pdf)  
+  📜 [View Certificate](https://github.com/snehasamita05/Certifications/blob/cd1cf49cf546998318f5e623d59f3e797c97b65c/DP-203.jpg)  
 
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**  
   📜 [View Certificate](https://github.com/snehasamita05/Certifications/blob/cd1cf49cf546998318f5e623d59f3e797c97b65c/AZ-900.png) 
-
-- **Databricks Certified: Databricks Fundamentals**  
-  📜 [View Certificate](https://github.com/snehasamita05/your-repo/blob/main/Certifications/Databricks-Fundamentals.pdf)  
 
 - **Tableau Desktop Specialist 2020.2**  
 
