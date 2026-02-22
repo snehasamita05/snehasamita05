@@ -25,6 +25,10 @@ I help organizations **build secure, efficient, and compliant data solutions**, 
 ---
 
 ### 🎓 Certifications
+
+- **Databricks Certified Data Engineer Professional**  
+  📜 [View Certificate](https://github.com/snehasamita05/Certifications/blob/cd1cf49cf546998318f5e623d59f3e797c97b65c/Databricks-Certified-Data-Engineer-Associate.png)
+  
 - **Databricks Certified Data Engineer Associate**  
   📜 [View Certificate](https://github.com/snehasamita05/Certifications/blob/cd1cf49cf546998318f5e623d59f3e797c97b65c/Databricks-Certified-Data-Engineer-Associate.png)
 
